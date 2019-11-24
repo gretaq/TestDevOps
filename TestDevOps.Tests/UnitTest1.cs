@@ -14,7 +14,7 @@ namespace TestDevOps.Tests
         [TestMethod]
         public void MyTestMethod()
         {
-            Assert.IsFalse(true, "fail for testing purposis");
+            Assert.IsFalse(false, "fail for testing purposis");
         }
     }
 }
